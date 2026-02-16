@@ -1,1 +1,2 @@
 Druhy soubor
+Zmena v ramci funkce1
